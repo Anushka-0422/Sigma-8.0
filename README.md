@@ -1,2 +1,2 @@
 # Sigma-8.0
-all git practices.
+all git practices by me.
